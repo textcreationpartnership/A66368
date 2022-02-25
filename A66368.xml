@@ -1,0 +1,238 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An abstract of those answers which were given in the assembly of the Lords in the high court of Parliament unto the nine reasons, sent up from the Hovse of Commons, against the voting of bishops in Parliament.</title>
+            <author>Williams, John, 1582-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A66368</idno>
+            <idno type="STC">Wing W2677</idno>
+            <idno type="STC">ESTC R38940</idno>
+            <idno type="EEBO-CITATION">18196950</idno>
+            <idno type="OCLC">ocm 18196950</idno>
+            <idno type="VID">107007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A66368)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1137:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An abstract of those answers which were given in the assembly of the Lords in the high court of Parliament unto the nine reasons, sent up from the Hovse of Commons, against the voting of bishops in Parliament.</title>
+                  <author>Williams, John, 1582-1650.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to John Williams by Wing and NUC pre-1956 imprints.</note>
+                  <note>Place of imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Bishops --  Temporal power.</term>
+               <term>Great Britain --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:107007:1"/>
+            <pb facs="tcp:107007:1"/>
+            <p>AN ABSTRACT OF THOSE ANSWERS VVhich were given in the ASSEMBLY of the LORDS in the High Court of PARLIAMENT, UNTO THE NINE REASONS, SENT UP FROM THE HOVSE OF COMMONS, Againſt the VOTING of BISHOPS in PARLIAMENT.</p>
+            <p>Printed <hi>Anno Dom.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:107007:2"/>
+            <pb n="1" facs="tcp:107007:2"/>
+            <head>That Biſhops ought not to vote in PARLIAMENT.</head>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>1</label> 
+               <hi>BEcauſe it is a very great hinderance to the exerciſe of their Miniſteriall Function.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw </seg>
+               </label> IT is not ſo much hinderance as their conveening to generall Councills, Synods, Convocations, Aſſemblies, Claſſes, and the like, in all the Chur<g ref="char:EOLhyphen"/>ches Reformed or otherwiſe.</p>
+            <p n="2">2 It is <hi>propter majus bonum Eccleſiae.</hi>
+            </p>
+            <p n="3">3 The Apoſtles unneceſſarily put themſelves to more hinderances, to worke for their lively-hood, <hi>Act.</hi> 20.24. 1. <hi>Theſ.</hi> 2.9. 2. <hi>Theſ.</hi> 3.8.</p>
+            <p n="4">4 What hinderance can it be to their calling, that once in three yeares, when they muſt neceſſa<g ref="char:EOLhyphen"/>rily attend the Convocation, they divide ſome part of that ſhort time to the attendance of Parlia<g ref="char:EOLhyphen"/>ment?</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>2</label> 
+               <hi>Becauſe they doe vow and undertake it at their Ordi<g ref="char:EOLhyphen"/>nation, when they enter into holy Orders, that they will give themſelves wholly to that Vocation.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This vow and undertaking in Miniſters Ordi<g ref="char:EOLhyphen"/>nation is quite miſtaken: The words are in the Bi<g ref="char:EOLhyphen"/>ſhops Exhortation, not in the Miniſters Anſwer.</p>
+            <p n="2">2 The Biſhop hopes they will give themſelves wholly to that, and not to any other Trade or Vo<g ref="char:EOLhyphen"/>cation.</p>
+            <p n="3">
+               <pb n="2" facs="tcp:107007:3"/> 3 Wholly, in a <hi>Morall</hi> and not in a <hi>Mathema<g ref="char:EOLhyphen"/>ticall</hi> ſenſe, that will admit no <hi>Latitude:</hi> Elſe, there might the ſame exception be taken againſt their juſt care of proviſion for their houſhold affaires.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>3</label> 
+               <hi>Becauſe Councils and Canons in ſeverall Ages doe forbid them to meddle in ſecular affaires.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1 Councils and Canons againſt Biſhops Votes in Parliament, were never in uſe in this Kingdome, and therefore they are aboliſhed by the Statute of 25. <hi>H.</hi> 8.</p>
+            <p n="2">2 So are they by the ſame Statute, becauſe the Lords have declared, that the Biſhops vote here by the Lawes and Statutes of this Realme: And all Canons that croſſe with thoſe, are there aboliſhed.</p>
+            <p n="3">3 So are they by the ſame Statute, as thwarting the Kings Prerogative to call Biſhops by Summons to Vote in Parliament.</p>
+            <p n="4">4 So they are by the Vote in the Houſe of Commons, 21. <hi>Maii</hi> 1641. becauſe they are not confirmed by Act of Parliament.</p>
+            <p n="5">5 This <hi>Argument</hi> was in a ſort deſerte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by Mr. <hi>Perpoint,</hi> and confeſt to be but an <hi>Argumentum ad hominem.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>4</label> 
+               <hi>Becauſe the</hi> 24. <hi>Biſhops have a dependency upon the Archbiſhops, and becauſe of their Canonicall obedience to them.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1 They have no Dependency upon the Arch-Biſhops, but in points of Appeale, and Viſitation onely: And owe them no Obedience but in theſe two points. None at all in Parliament, where they
+<pb n="3" facs="tcp:107007:3"/>are <hi>Pares,</hi> their Equals: And as <hi>Bracton</hi> tels us, <hi>Parin Parem non habet imperium.</hi> What hath Canonicall Obedience to doe with a Vote in Parliament, decla<g ref="char:EOLhyphen"/>red in this Bill to be no Eccleſiaſticall, but a ſecular affaire?</p>
+            <p n="2">2 This <hi>Argument</hi> reacheth not the two Arch-Biſhops, diſcharged in the Rubrick from this Oath, and therefore is no reaſon for the paſſing of this bill.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>5</label> 
+               <hi>Becauſe they are but for their lives, and therefore are not fit to have Legislative power over the honours, in<g ref="char:EOLhyphen"/>heritances, perſons, and liberties of others.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1 Biſhops are not for their lives onely, but for their ſucceſſors alſo in the Land and Honour that pertaine to their places: as the Earles and Barons al<g ref="char:EOLhyphen"/>ſo are for their ſucceſſors in their owne Lands and Honours: And, holding their Lands in Fee ſimple, may with as good Reaſon vote in the Honours, inhe<g ref="char:EOLhyphen"/>ritance, perſons, and liberties of others, as others may, and doe in theirs.</p>
+            <p n="2">2 Many Peeres have beene created for their lives onely, and the Earle of Surrey for the life of his Fa<g ref="char:EOLhyphen"/>ther, who yet voted in this houſe.</p>
+            <p n="3">3 The Knights, Citizens, and Burgeſſes, are cho<g ref="char:EOLhyphen"/>ſen for one Parliament only, and yet uſe their Legiſ<g ref="char:EOLhyphen"/>lative power. Nor will their being elected diffe<g ref="char:EOLhyphen"/>rence their Cauſe; for the Lords uſe that power, in a greater Eminence, who are not elected.</p>
+            <p n="4">4 A Burgeſſe, that hath free-hold but for terme of life only, may vote and aſſent to a law in Parliament.</p>
+            <p n="5">5 No ſuch exception was ever heard of in the Diets of <hi>Germanie,</hi> the Corteſes of <hi>Spaine,</hi> or the three Eſtates of <hi>France,</hi> where the <hi>Prelates</hi>
+               <pb n="4" facs="tcp:107007:4"/>vote in all theſe Points, with the Nobility and the Commons.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>6</label> 
+               <hi>Becauſe of Biſhops dependancy and expectancy of Tranſlations to places of greater profit.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1 This Argument ſuppoſeth all Kings, and all Biſhops to bee very faulty, if they take the time of their votes in Parliament, from theſe dependences, and expectances.</p>
+            <p n="2">2 This may be ſaid of all the Kings great Officers, of all the noble members of both Houſes, who may be conceived, as well as Biſhops, to have their expe<g ref="char:EOLhyphen"/>ctances, and conſequently to be deprived by this Reaſon of voting in Parliament.</p>
+            <p n="3">3 This Argument reacheth not at the two Arch<g ref="char:EOLhyphen"/>biſhops, and ſo fals ſhort of the votes, which are to be taken away by this Bill.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>7</label> 
+               <hi>That ſeverall Biſhops have of late much encroached upon the Conſciences, and properties of the Subject. And they and their ſucceſſors will be much encouraged ſtill to encroach, and the ſubject will be much diſcouraged from complaining againſt ſuch encroachments, if</hi> 26. <hi>of that Order be to be Judges upon theſe complaints. The ſame Reaſon extends to their Legislative power, in any Bill to paſſe for the Regulation of their power, upon any emer<g ref="char:EOLhyphen"/>gent inconveniency by it.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1 This Argument fights not againſt Biſhops votes in Parliament, but againſt their votes in Convoca<g ref="char:EOLhyphen"/>tion, where (if any where) they have encroached upon the Conſciences and properties of the Subject: Nor yet at the votes of ſuch Biſhops there, as are not guilty of this offence. Nor need the Subject to be diſcouraged in complaining againſt the like Grie<g ref="char:EOLhyphen"/>vances, though 26. of that Order continue Judges:
+<pb n="5" facs="tcp:107007:4"/>For they ſhall not vote as Judges in their owne cauſe, when they are legally charged: And if they ſhould vote, what were that to the purpoſe, when the Lay-Peeres are ſtill foure to one? The Biſhops (aſſiſted with a double number of Mitred Abbots, and Priors) could not hinder the Lawes made a<g ref="char:EOLhyphen"/>gainſt the Court of <hi>Rome,</hi> the Alien Cardinalls, and Prelates, the Proviſors, the Suitors to the Popes Conſiſtory under <hi>Ed.</hi> 3. <hi>Rich.</hi> 2. and <hi>Hen.</hi> 4. much more may thoſe emergent exorbitances of the Eccle<g ref="char:EOLhyphen"/>ſiaſticall juriſdiction be ſoone curbed and redreſſed in this inequality of votes betweene the Temporall and Spirituall Lords. So as this Argument doth not ſo much hurt the votes, as it quailes the courage of the Biſhops, who may juſtly feare, by this and the next Argument, that the taking away of their votes is but a kind of fore-runner to the aboliſhing of their juriſdiction.</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>8</label> 
+               <hi>Becauſe the whole number of them is intereſſed to maintaine the juriſdiction of Biſhops; which hath beene found ſo grievous to the three Kingdomes, that Scotland hath utterly aboliſhed it, and multitudes in England and Ireland have petitioned againſt it.</hi>
+            </p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 1 This Argument is not againſt the Votes of Bi<g ref="char:EOLhyphen"/>ſhops, but againſt Epiſcopacy it ſelfe, which muſt be removed, becauſe <hi>Scotland</hi> hath done ſo, and ſome in <hi>England</hi> and <hi>Ireland</hi> would have it ſo: And yet peradventure ten times as great a ſomme as theſe de<g ref="char:EOLhyphen"/>sire the contrary.</p>
+            <p n="2">2 There will be found Peeres enough in the Up<g ref="char:EOLhyphen"/>per Houſe to reforme any thing that is amiſſe in the Eccleſiaſticall juriſdiction, although the 26. Prelates ſhould be ſo wicked as to oppoſe it: as there were
+<pb n="6" facs="tcp:107007:5"/>found Peeres enough in that noble Houſe, to curbe the Court of <hi>Rome,</hi> and the Revenues of the Car<g ref="char:EOLhyphen"/>dinalls under <hi>Ed.</hi> 3. To meet with the Proviſors un<g ref="char:EOLhyphen"/>der <hi>Rich.</hi> 2. To put all the Clergy into a <hi>Praemunire</hi> under <hi>Hen.</hi> 8. And to reforme the Religion, 1. <hi>Eliz.</hi> notwithſtanding the oppoſition of all the <hi>Biſhops.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Reaſon </seg>9</label> 
+               <hi>Becauſe Biſhops being Lords of Parliament, it ſetteth too great a diſtance betweene them and thereſt of their Brethren in the Miniſtery, which occaſioneth pride in them, diſcontent in others, and diſquiet in the Church.</hi>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This is an Argument from <hi>Morall Philoſophie,</hi> which affords no <hi>Demonſtrations.</hi> All are not proud that vote in <hi>Parliament,</hi> nor diſcontented, that are not ſo imployed. This <hi>Argument</hi> fights only againſt the title of being Lords, which is not the Queſtion at this time. And were thoſe Brethren ſo wiſe and well affected as they might be, they would rejoyce rather that ſome of their owne profeſſion are advanced to thoſe places, wherein they may be capable, upon all occaſions, of doing good offices to them, and to this whole Church.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:107007:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
